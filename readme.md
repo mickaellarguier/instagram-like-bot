@@ -1,4 +1,4 @@
-# Instagram Feed Like Bot
+# Instagram Like Bot
 
 Simple pure JavaScript bot to automatically "like" posts of your Instagram feed.
 
